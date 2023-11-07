@@ -1,6 +1,6 @@
 export {};
 
-function multiply(a, b, c) {
+function multiply(a: number, b: number, c: number) {
   a * b * c;
   return;
 }

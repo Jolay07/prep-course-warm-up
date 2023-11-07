@@ -13,7 +13,9 @@ export {};
  */
 
 // You are allowed to change only this function
-function calculateSalesTax() {}
+function calculateSalesTax() {
+    
+}
 
 const product = "You don't know JS";
 const price = 19.99;
